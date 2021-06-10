@@ -1,5 +1,5 @@
 # Bleeding edge Django
-django==2.2.16
+django==2.2.24
 
 # Database connection
 # prerequisite:
